@@ -127,6 +127,7 @@ payload:
   - DOMAIN-SUFFIX,zhimg.com
   - DOMAIN-SUFFIX,zimuzu.tv
   - DOMAIN-SUFFIX,zoho.com
+  - DOMAIN-SUFFIX,zhonganinfo.com
 
   # LAN
   - DOMAIN,injections.adguard.org
