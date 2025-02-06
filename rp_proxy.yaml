@@ -269,7 +269,6 @@ payload:
   - DOMAIN-SUFFIX,ying.com
   - DOMAIN-SUFFIX,yoyo.org
   - DOMAIN-SUFFIX,ytimg.com
-  - DOMAIN-SUFFIX,linkedin.com
 
   # Telegram
   - DOMAIN-SUFFIX,telegra.ph
