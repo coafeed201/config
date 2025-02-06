@@ -130,6 +130,7 @@ payload:
   - DOMAIN-SUFFIX,kat.cr
   - DOMAIN-SUFFIX,klip.me
   - DOMAIN-SUFFIX,libsyn.com
+  - DOMAIN-SUFFIX,linkedin.com
   - DOMAIN-KEYWORD,linkedin
   - DOMAIN-SUFFIX,linode.com
   - DOMAIN-SUFFIX,lithium.com
