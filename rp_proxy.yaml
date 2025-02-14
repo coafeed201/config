@@ -298,6 +298,7 @@ payload:
   - DOMAIN-KEYWORD,blogspot
   - DOMAIN-SUFFIX,youtu.be
   - DOMAIN-KEYWORD,whatsapp
+  - DOMAIN-KEYWORD,notion
 
   # OpenAi
   - DOMAIN-KEYWORD,openai
