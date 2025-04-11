@@ -141,5 +141,8 @@ payload:
   - IP-CIDR,224.0.0.0/4
   - IP-CIDR6,fe80::/10
 
-
+  # ZA
+  - DOMAIN-SUFFIX,zhonganonline.com
+  - DOMAIN-SUFFIX,zaonline.com
+  - DOMAIN-SUFFIX,zhonganinfo.com
 
